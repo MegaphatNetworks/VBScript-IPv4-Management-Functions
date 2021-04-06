@@ -1,3 +1,10 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'					IPv4 Address Library					'
+'						     by								'
+'					   Gabriel Polmar						'
+'					  Megaphat Networks						'
+'					  www.megaphat.info						'
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 '' ConvertIPToBinary(strIP)
 '' ConvertBinIPToDecimal(strBinIP)
 '' MaskLength(strMask)
